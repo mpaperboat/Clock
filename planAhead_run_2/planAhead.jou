@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# PlanAhead v14.2 (64-bit)
+# Build 194362 by xbuild on Fri Jul 20 18:52:11 MDT 2012
+# Start of session at: Wed Mar 23 16:45:02 2016
+# Process ID: 80460
+# Log file: C:/Users/Martin/Documents/Archieve/Working/dianexp/uu/experi/clock/planAhead_run_2/planAhead.log
+# Journal file: C:/Users/Martin/Documents/Archieve/Working/dianexp/uu/experi/clock/planAhead_run_2/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source C:/Users/Martin/Documents/Archieve/Working/dianexp/uu/experi/clock/pa.fromHdl.tcl
